@@ -40,7 +40,7 @@
 - 默认自动创建数据库、数据表并自动导入初始数据，同样在``application-dev.yml``中配置
 - 后台管理默认用户名为 ``admin``，密码为 ``123456``
 
-### 6. 开源协议
+### 3. 开源协议
 
 [Apache License 2.0](http://apache.org/licenses/LICENSE-2.0.html)
 
