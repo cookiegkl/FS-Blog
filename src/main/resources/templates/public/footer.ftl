@@ -17,17 +17,17 @@
                     </li>
                     <li class="list-inline-item">&sdot;</li>
                     <li class="list-inline-item">
-                        <a href="http://github.com/JamesZBL/FS-Blog" target="_blank" class="text-white">Github 项目</a>
+                        <a href="http://github.com" target="_blank" class="text-white">Github</a>
                     </li>
                 </ul>
-                <p class="text-muted small mb-4 mb-lg-0">&copy; JamesZBL 2017-2018 All Rights Reserved. </p>
-                <p class="text-muted small mb-4 mb-lg-0">冀 ICP 备 18000182 号</p>
+                <p class="text-muted small mb-4 mb-lg-0">&copy; Alex 2019-2020 All Rights Reserved. </p>
+                <p class="text-muted small mb-4 mb-lg-0">苏 ICP 备 1027336328 号</p>
             </div>
             <div class="col-lg-6 text-center text-lg-right my-auto">
                 <ul class="list-inline mb-0">
                 <#-- github -->
                     <li class="list-inline-item mr-3">
-                        <a href="http://github.com/JamesZBL" target="_blank" class="text-white">
+                        <a href="http://github.com" target="_blank" class="text-white">
                             <i class="fa fa-github fa-2x fa-fw"></i>
                         </a>
                     </li>

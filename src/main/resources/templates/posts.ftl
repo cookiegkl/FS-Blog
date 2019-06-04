@@ -35,8 +35,8 @@
     <div class="container">
         <div class="row">
             <div class="col mx-auto text-left pl-5">
-                <h1>FS-Blog</h1>
-                <h3>记录技术成长点滴</h3>
+                <h1>Blog</h1>
+                <h3>平凡之路</h3>
             </div>
         </div>
     </div>
